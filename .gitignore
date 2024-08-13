@@ -1,6 +1,9 @@
 # sphinx build directories
 _build/
 
+# CONF
+/odoo17.conf
+
 # dotfiles
 .*
 !.gitignore
